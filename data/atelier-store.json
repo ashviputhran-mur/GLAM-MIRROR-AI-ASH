@@ -1,0 +1,249 @@
+{
+  "customProducts": [],
+  "productOverrides": {},
+  "archivedProductIds": [],
+  "customModels": [],
+  "savedLooks": [],
+  "orders": [
+    {
+      "id": "GM-1038",
+      "customerName": "Elena Vance",
+      "customerEmail": "elena.vance@example.com",
+      "items": [
+        {
+          "shadeId": "fnd-sand",
+          "name": "03 Golden Sand",
+          "brand": "Maison Velours",
+          "category": "foundation",
+          "finishLabel": "Natural Satin",
+          "price": 56,
+          "quantity": 1
+        },
+        {
+          "shadeId": "lip-rosewood",
+          "name": "Rosewood Whisper",
+          "brand": "Maison Velours",
+          "category": "lipstick",
+          "finishLabel": "Satin",
+          "price": 38,
+          "quantity": 1
+        }
+      ],
+      "total": 94,
+      "status": "Dispatched",
+      "createdAt": "2026-11-12T16:40:00Z"
+    },
+    {
+      "id": "GM-1041",
+      "customerName": "Aarav Mehta",
+      "customerEmail": "aarav.m@example.com",
+      "items": [
+        {
+          "shadeId": "kaj-soot",
+          "name": "Royal Charcoal Kajal",
+          "brand": "Atelier Kōhl",
+          "category": "kajal",
+          "finishLabel": "Tight Waterline",
+          "price": 28,
+          "quantity": 1
+        },
+        {
+          "shadeId": "hlt-gold",
+          "name": "Sunlit Amber",
+          "brand": "Lumière Privée",
+          "category": "highlighter",
+          "finishLabel": "Pearl Sheen",
+          "price": 46,
+          "quantity": 1
+        }
+      ],
+      "total": 74,
+      "status": "Preparing",
+      "createdAt": "2026-11-13T08:15:00Z"
+    }
+  ],
+  "aiConsultations": [
+    {
+      "id": "ai-seed-5",
+      "createdAt": "2026-11-13T08:22:00Z",
+      "occasion": "Signature Everyday",
+      "undertone": "Neutral Shoot",
+      "complexionDepth": "Light-Medium",
+      "lookTitle": "Soft Rosewood Satin",
+      "hydrationScore": 84,
+      "brightnessScore": 81,
+      "textureScore": 86,
+      "faceNotes": "Supple cheek barrier hydration and refined pore smoothness along T-zone."
+    },
+    {
+      "id": "ai-seed-4",
+      "createdAt": "2026-11-06T11:10:00Z",
+      "occasion": "Sunlit Editorial",
+      "undertone": "Neutral Shoot",
+      "complexionDepth": "Light-Medium",
+      "lookTitle": "Sunlit Sienna",
+      "hydrationScore": 79,
+      "brightnessScore": 78,
+      "textureScore": 82,
+      "faceNotes": "Balanced mid-cheek luminosity with steady barrier recovery."
+    },
+    {
+      "id": "ai-seed-3",
+      "createdAt": "2026-10-29T15:40:00Z",
+      "occasion": "Candlelit Evening",
+      "undertone": "Neutral Shoot",
+      "complexionDepth": "Light-Medium",
+      "lookTitle": "Parisian Matte",
+      "hydrationScore": 75,
+      "brightnessScore": 73,
+      "textureScore": 79,
+      "faceNotes": "Subtle surface grain visible around wings of nose; mild dryness near jawline."
+    },
+    {
+      "id": "ai-seed-2",
+      "createdAt": "2026-10-21T09:15:00Z",
+      "occasion": "Signature Everyday",
+      "undertone": "Warm-Neutral",
+      "complexionDepth": "Light-Medium",
+      "lookTitle": "Rosewater Dew",
+      "hydrationScore": 71,
+      "brightnessScore": 70,
+      "textureScore": 76,
+      "faceNotes": "Even skin tone with slight seasonal moisture depletion."
+    },
+    {
+      "id": "ai-seed-1",
+      "createdAt": "2026-10-14T14:05:00Z",
+      "occasion": "Baseline Scan",
+      "undertone": "Warm-Neutral",
+      "complexionDepth": "Light-Medium",
+      "lookTitle": "Atelier Baseline",
+      "hydrationScore": 67,
+      "brightnessScore": 66,
+      "textureScore": 72,
+      "faceNotes": "Initial barrier baseline prior to targeted humectant prep protocol."
+    }
+  ],
+  "waterIntakeLogs": [
+    {
+      "id": "water-2026-11-13",
+      "date": "2026-11-13",
+      "glasses": 9,
+      "ml": 2250,
+      "hydrationScore": 84,
+      "note": "Morning electrolytes + steady mineral water throughout shoot"
+    },
+    {
+      "id": "water-2026-11-06",
+      "date": "2026-11-06",
+      "glasses": 8,
+      "ml": 2000,
+      "hydrationScore": 79,
+      "note": "2.0 L daily hydration goal achieved"
+    },
+    {
+      "id": "water-2026-10-29",
+      "date": "2026-10-29",
+      "glasses": 7,
+      "ml": 1750,
+      "hydrationScore": 75,
+      "note": "Afternoon herbal tea + water refill"
+    },
+    {
+      "id": "water-2026-10-21",
+      "date": "2026-10-21",
+      "glasses": 6,
+      "ml": 1500,
+      "hydrationScore": 71,
+      "note": "Mild seasonal dehydration"
+    },
+    {
+      "id": "water-2026-10-14",
+      "date": "2026-10-14",
+      "glasses": 5,
+      "ml": 1250,
+      "hydrationScore": 67,
+      "note": "Starting fluid baseline before hydration challenge"
+    }
+  ],
+  "brandShoots": [
+    {
+      "id": "SH-204",
+      "campaignTitle": "Autumn Velvet Editorial",
+      "brand": "Maison Velours",
+      "modelId": "model-25",
+      "modelName": "Model 25",
+      "presetName": "Parisian Matte",
+      "shootDate": "2026-11-13",
+      "status": "In Studio",
+      "deliverablesCount": 16,
+      "notes": "Primary campaign shoot on Model 25 with Rosewood Whisper & Bordeaux Velvet."
+    },
+    {
+      "id": "SH-203",
+      "campaignTitle": "Glass Glow Sunlit Series",
+      "brand": "Lumière Privée",
+      "modelId": "ananya",
+      "modelName": "Ananya",
+      "presetName": "Sunlit Sienna",
+      "shootDate": "2026-11-15",
+      "status": "Scheduled",
+      "deliverablesCount": 12,
+      "notes": "Golden Hour lighting setup featuring Sunlit Amber highlighter."
+    },
+    {
+      "id": "SH-202",
+      "campaignTitle": "Evening Noir Kōhl Capsule",
+      "brand": "Atelier Kōhl",
+      "modelId": "marcus",
+      "modelName": "Marcus",
+      "presetName": "Evening Noir Kōhl",
+      "shootDate": "2026-11-10",
+      "status": "Editing",
+      "deliverablesCount": 10,
+      "notes": "Minimalist tightline kajal framing and satin complexion check."
+    },
+    {
+      "id": "SH-201",
+      "campaignTitle": "Rosewater Botanical Drop",
+      "brand": "Soraia Botanics",
+      "modelId": "clara",
+      "modelName": "Clara",
+      "presetName": "Rosewater Dew",
+      "shootDate": "2026-11-04",
+      "status": "Delivered",
+      "deliverablesCount": 14,
+      "notes": "Final high-res studio portraits approved and archived."
+    }
+  ],
+  "redeemedRewards": [],
+  "challengeCheckIns": {
+    "perfect-base-week": [
+      "2026-11-10",
+      "2026-11-11",
+      "2026-11-12"
+    ],
+    "eyeliner-mastery": [
+      "2026-11-11",
+      "2026-11-12"
+    ],
+    "glass-skin-hydration": [],
+    "editorial-full-face": [
+      "2026-11-12"
+    ]
+  },
+  "claimedChallengeRewards": [],
+  "socialPosts": [],
+  "selectedKitIds": [
+    "mua-cleanser",
+    "mua-moisturizer",
+    "mua-face-primer",
+    "mua-concealer",
+    "mua-setting-powder",
+    "mua-mascara",
+    "mua-eyebrow-gel",
+    "mua-lip-liner",
+    "mua-setting-spray"
+  ],
+  "bagItems": []
+}

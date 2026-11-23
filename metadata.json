@@ -1,0 +1,6 @@
+{
+  "name": "Glam Mirror AI",
+  "description": "Real-time virtual makeup try-on atelier for foundation, lipstick, eyeliner, and blush with live camera tracking and AI shade matching.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
